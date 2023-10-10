@@ -8,7 +8,7 @@ Example shopping list application in Kotlin
 5. [APK](#apk)
 6. [App in action](#app-in-action)
 ## Description
-The test project was developed in Android Studio using Kotlin. The build is based on the Gradle build system.
+The test project was developed in Android Studio using Kotlin and Jetpack Compose. The build is based on the Gradle build system.
 Pre-interview assignment UniSafe LLC.
 An example of a shopping list application in Kotlin. 
 Using selected queries, you must be able to create, edit and upload shopping lists. 
