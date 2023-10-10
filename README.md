@@ -31,7 +31,6 @@ items from the shopping list.
     * Version control: Git
     * URL: https://github.com/maximpogodin/ShoppingList
     * Directory: your_path</br>
-![](https://github.com/maximpogodin/swapi-android/blob/master/screenshots/step2.png)
 4. Click on Clone button
 5. Open project
 ___
